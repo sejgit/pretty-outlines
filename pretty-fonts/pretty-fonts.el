@@ -10,7 +10,7 @@
 ;;;; Requires
 
 (require 'dash)
-(require 'dash-functional)
+;;(require 'dash-functional)
 
 ;;;; Configuration
 ;;;;; Fira-code Ligatures
